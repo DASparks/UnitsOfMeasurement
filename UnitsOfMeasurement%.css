@@ -1,0 +1,41 @@
+html {
+    background-color:lightgrey;
+    font-size:1em;
+}
+
+h1 p{
+    color: black;
+
+}
+body{
+    font-size:100%;
+    background-color: grey;
+    padding: 1em;
+    border: black solid 5px;
+    margin: 5%;
+}
+
+div {
+    padding: 1em;
+}
+.one{
+    background-color: lightblue;
+    font-size:100%;
+    border:blue solid 5px;
+    margin: 5%;
+
+}
+
+.two{
+    background-color:lightsalmon;
+    font-size:150%;
+    border:salmon solid 5px;
+    margin: 10%;
+}
+
+.three{
+    background-color:lightgreen;
+    font-size:200%;
+    border:green solid 5px;
+    margin: 20%;
+}
